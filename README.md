@@ -10,3 +10,7 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
+
+
+## Hobbies
+- Listening to music like: the smiths, talk talk, radiohead, the strokes, chet baker, 
